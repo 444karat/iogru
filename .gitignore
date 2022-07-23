@@ -1,0 +1,8 @@
+# VSCode & Webstorm history directories
+.history
+.idea
+
+# Environment variables, never commit this file
+
+# Node modules
+node_modules
